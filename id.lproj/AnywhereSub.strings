@@ -1,0 +1,47 @@
+{
+
+  "ENABLE_ANYWHERE_SECTION" = "Aktifkan Seksi Dimanapun";
+  "ENABLE_SECTION" = "Aktifkan Seksi";
+
+  "HAPTIC_FEEDBACK_WHEN" = "Umpan Balik Haptic Ketika..";
+
+  "KILLING_APP" = "Mematikan Aplikasi";
+  "APP_SWITCHER_IS_USED" = "Menggunakan App Switcher";
+  "CALLING_SIRI" = "Membuka Siri";
+  "TAKING_SCREENSHOT" = "Mengambil Screenshot";
+  "BEGIN_OR_END_REACHABILITY" = "Memulai/Mengakhiri Reachability";
+  "USING_TEXT_SELECTION" = "Menggunakan Text Selection";
+  "ENTERING_POWER_DOWN_VIEW" = "Memasuki Opsi Power Menu";
+  "RESPRINING" = "Respringing";
+  "TYPING" = "Mengetik";
+  "ENTERING_HOMESCREEN" = "Memasuki Homescreen";
+  "ALERT_APPEARS" = "Pemberitahuan Muncul";
+  "ALERT_DISAPPEARS" = "Pemberitahuan Selesai";
+
+  "CUSTOM_STRENGTH_SETTINGS" = "Pengaturan Penyesuaian Getar";
+
+  "CUSTOM_KILLING_STRENGTH" = "Penyesuaian Getar Mematikan Aplikasi";
+  "CUSTOM_SWITCHER_STRENGTH" = "Penyesuaian Getar App Switcher";
+  "CUSTOM_SIRI_STRENGTH" = "Penyesuaian Getar Siri";
+  "CUSTOM_SCREENSHOT_STRENGTH" = "Penyesuaian Getar Screenshot";
+  "CUSTOM_REACHABILITY_STRENGTH" = "Penyesuaian Getar Reachability";
+  "CUSTOM_TEXT_SELECTION_STRENGTH" = "Penyesuaian Getar Text Selection";
+  "CUSTOM_POWER_DOWN_VIEW_STRENGTH" = "Penyesuaian Getar Opsi Power Menu";
+  "CUSTOM_RESPRING_STRENGTH" = "Penyesuaian Getar Respring";
+  "CUSTOM_TOUCHES_STRENGTH" = "Penyesuaian Getar Sentuhan";
+  "CUSTOM_TYPING_STRENGTH" = "Penyesuaian Getar Mengetik";
+  "CUSTOM_ENTERING_HOMESCREEN_STRENGTH" = "Penyesuaian Getar Memasuki Homescreen";
+  "CUSTOM_ALERT_APPEARING_STRENGTH" = "Penyesuaian Getar Pemberitahuan Muncul";
+  "CUSTOM_ALERT_DISAPPEARING_STRENGTH" = "Penyesuaian Getar Pemberitahuan Selesai";
+
+  "NONE" = "Tidak Ada";
+  "LIGHT_HAPTIC_ENGINE" = "Ringan: Haptic Engine";
+  "MEDIUM_HAPTIC_ENGINE" = "Sedang: Haptic Engine";
+  "HEAVY_HAPTIC_ENGINE" = "Kuat: Haptic Engine";
+  "LIGHT_TAPTIC_ENGINE" = "Ringan: Taptic Engine";
+  "MEDIUM_TAPTIC_ENGINE" = "Sedang: Taptic Engine";
+  "STRONG_TAPTIC_ENGINE" = "Kuat: Taptic Engine";
+  "SOFT_TAPTIC_ENGINE" = "Lembut: Taptic Engine";
+  "RIGID_TAPTIC_ENGINE" = "Padat: Taptic Engine";
+
+}
