@@ -1,0 +1,24 @@
+{
+
+  "ENABLE_TIKTOK_SUPPORT" = "Aktifkan Dukungan TikTok";
+  "TIKTOK_SUPPORT" = "Dukungan TikTok";
+
+  "HAPTIC_FEEDBACK_WHEN" = "Umpan Balik Haptic Ketika..";
+
+  "TAPPING_LIKE_COMMENT_OR_SHARE" = "Ketukan Pada Like, Comment Atau Share";
+
+  "CUSTOM_STRENGTH_SETTINGS" = "Pengaturan Penyesuaian Getar";
+
+  "CUSTOM_LIKE_COMMENT_SHARE_BUTTON_STRENGTH" = "Penyesuan Getar Tombol Like, Comment, Share Button";
+
+  "NONE" = "Tidak Ada";
+  "LIGHT_HAPTIC_ENGINE" = "Ringan: Haptic Engine";
+  "MEDIUM_HAPTIC_ENGINE" = "Sedang: Haptic Engine";
+  "HEAVY_HAPTIC_ENGINE" = "Kuat: Haptic Engine";
+  "LIGHT_TAPTIC_ENGINE" = "Ringan: Taptic Engine";
+  "MEDIUM_TAPTIC_ENGINE" = "Sedang: Taptic Engine";
+  "STRONG_TAPTIC_ENGINE" = "Kuat: Taptic Engine";
+  "SOFT_TAPTIC_ENGINE" = "Lembut: Taptic Engine";
+  "RIGID_TAPTIC_ENGINE" = "Padat: Taptic Engine";
+
+}
