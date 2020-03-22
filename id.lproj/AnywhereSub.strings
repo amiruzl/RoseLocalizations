@@ -12,7 +12,7 @@
   "BEGIN_OR_END_REACHABILITY" = "Memulai/Mengakhiri Reachability";
   "USING_TEXT_SELECTION" = "Menggunakan Text Selection";
   "ENTERING_POWER_DOWN_VIEW" = "Memasuki Opsi Power Menu";
-  "RESPRINING" = "Respringing";
+  "RESPRINING" = "Perangkat Respring";
   "TYPING" = "Mengetik";
   "ENTERING_HOMESCREEN" = "Memasuki Homescreen";
   "ALERT_APPEARS" = "Pemberitahuan Muncul";
@@ -27,7 +27,7 @@
   "CUSTOM_REACHABILITY_STRENGTH" = "Penyesuaian Getar Reachability";
   "CUSTOM_TEXT_SELECTION_STRENGTH" = "Penyesuaian Getar Text Selection";
   "CUSTOM_POWER_DOWN_VIEW_STRENGTH" = "Penyesuaian Getar Opsi Power Menu";
-  "CUSTOM_RESPRING_STRENGTH" = "Penyesuaian Getar Respring";
+  "CUSTOM_RESPRING_STRENGTH" = "Penyesuaian Getar Perangkat Respring";
   "CUSTOM_TOUCHES_STRENGTH" = "Penyesuaian Getar Sentuhan";
   "CUSTOM_TYPING_STRENGTH" = "Penyesuaian Getar Mengetik";
   "CUSTOM_ENTERING_HOMESCREEN_STRENGTH" = "Penyesuaian Getar Memasuki Homescreen";
