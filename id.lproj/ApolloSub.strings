@@ -1,0 +1,30 @@
+{
+
+  "ENABLE_APOLLO_SUPPORT" = "Aktifkan Dukungan  Apollo";
+  "APOLLO_SUPPORT" = "Dukungan Apollo";
+
+  "HAPTIC_FEEDBACK_WHEN" = "Umpan Balik Haptic Ketika..";
+
+  "TAPPING_THE_JUMP_BAR" = "Ketukan Pada Jump Bar";
+  "TAPPING_THE_FLOATING_BUTTON" = "Ketukan Pada Tombol Floating";
+  "TAPPING_MOST_ELEMENTS" = "Ketukan Pada Most Elements";
+  "TAPPING_UIBUTTON_ELEMENTS" = "Ketukan Pada Elemen UIButton";
+
+  "CUSTOM_STRENGTH_SETTINGS" = "Pengaturan Penyesuaian Getar ";
+
+  "CUSTOM_JUMP_BAR_STRENGTH" = "Penyesuaian Getar Jump Bar";
+  "CUSTOM_FLOATING_BUTTON_STRENGTH" = "Penyesuaian Getar Tombol Floating";
+  "CUSTOM_CERTAIN_ELEMENTS_STRENGTH" = "Penyesuaian Getar Elemen Tertentu";
+  "CUSTOM_UIBUTTON_STRENGTH" = "Penyesuaian Getar UIButton";
+
+  "NONE" = "Tidak Ada";
+  "LIGHT_HAPTIC_ENGINE" = "Ringan: Haptic Engine";
+  "MEDIUM_HAPTIC_ENGINE" = "Sedang: Haptic Engine";
+  "HEAVY_HAPTIC_ENGINE" = "Kuat: Haptic Engine";
+  "LIGHT_TAPTIC_ENGINE" = "Ringan: Taptic Engine";
+  "MEDIUM_TAPTIC_ENGINE" = "Sedang: Taptic Engine";
+  "STRONG_TAPTIC_ENGINE" = "Kuat: Taptic Engine";
+  "SOFT_TAPTIC_ENGINE" = "Lembut: Taptic Engine";
+  "RIGID_TAPTIC_ENGINE" = "Padat: Taptic Engine";
+
+}
