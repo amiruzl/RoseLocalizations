@@ -1,9 +1,9 @@
 {
 
-  "ENABLE_TWITTER_SUPPORT" = "Enable Twitter Support";
-  "TWITTER_SUPPORT" = "Twitter Support";
+  "ENABLE_TWITTER_SUPPORT" = "Aktifkan Dukungan Twitter";
+  "TWITTER_SUPPORT" = "Dukungan Twitter";
 
-  "HAPTIC_FEEDBACK_WHEN" = "Haptic Feedback When..";
+  "HAPTIC_FEEDBACK_WHEN" = "Umpan Balik HapticKetika..";
 
   "USING_TABBAR" = "Menggunakan Tabbar";
   "TAPPING_ON_A_TWEET" = "Ketukan Pada Tweet";
