@@ -1,0 +1,32 @@
+{
+
+  "ENABLE_TWITTER_SUPPORT" = "Enable Twitter Support";
+  "TWITTER_SUPPORT" = "Twitter Support";
+
+  "HAPTIC_FEEDBACK_WHEN" = "Haptic Feedback When..";
+
+  "USING_TABBAR" = "Menggunakan Tabbar";
+  "TAPPING_ON_A_TWEET" = "Ketukan Pada Tweet";
+  "TAPPING_A_DM_CHAT" = "Mengetuk Pada DM Chat";
+  "TAPPING_ON_A_NOTIFICATION" = "Mengetuk Pada Notifikasi";
+  "USING_THE_FLOATING_TWEET_BUTTON" = "Menggunakan Tombol Tweet";
+
+  "CUSTOM_STRENGTH_SETTINGS" = "Pengaturan Penyesuaian Getar";
+
+  "CUSTOM_TABBAR_STRENGTH" = "Penyesuaian Getar TabBar";
+  "CUSTOM_TWEET_STRENGTH" = "Penyesuaian Getar Tweet";
+  "CUSTOM_DM_STRENGTH" = "Penyesuaian Getar DM";
+  "CUSTOM_NOTIFICATION_STRENGTH" = "Penyesuaian Getar Notifikasi";
+  "CUSTOM_FLOATING_TWEET_BUTTON_STRENGTH" = "Penyesuaian Getar Tombol Tweet";
+
+  "NONE" = "Tidak Ada";
+  "LIGHT_HAPTIC_ENGINE" = "Ringan: Haptic Engine";
+  "MEDIUM_HAPTIC_ENGINE" = "Sedang: Haptic Engine";
+  "HEAVY_HAPTIC_ENGINE" = "Kuat: Haptic Engine";
+  "LIGHT_TAPTIC_ENGINE" = "Ringan: Taptic Engine";
+  "MEDIUM_TAPTIC_ENGINE" = "Sedang: Taptic Engine";
+  "STRONG_TAPTIC_ENGINE" = "Kuat: Taptic Engine";
+  "SOFT_TAPTIC_ENGINE" = "Lembut: Taptic Engine";
+  "RIGID_TAPTIC_ENGINE" = "Padat: Taptic Engine";
+
+}
