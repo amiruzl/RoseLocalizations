@@ -1,0 +1,10 @@
+{
+
+  "ENABLE_ADDITIONALS_SECTION" = "Aktifkan Seksi Tambahan";
+  "ENABLE_SECTION" = "Aktifkan Seksi";
+
+  "HAPTIC_ANIMATIONS" = "Animasi Haptic - Taptic Engine dan Khusus iOS 13";
+
+  "HAPTIC_LOCK_ANIMATION" = "Animasi Penguncian Haptic";
+
+}
