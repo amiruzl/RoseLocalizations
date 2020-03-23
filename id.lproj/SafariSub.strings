@@ -1,0 +1,24 @@
+{
+
+  "ENABLE_SAFARI_SUPPORT" = "Aktifkan Dukungan Safari";
+  "SAFARI_SUPPORT" = "Dukungan Safari";
+
+  "HAPTIC_FEEDBACK_WHEN" = "Umpan Balik Haptic Ketika..";
+
+  "TAPPING_THE_URL_BAR" = "Ketukan Pada Bar URL";
+
+  "CUSTOM_STRENGTH_SETTINGS" = "Pengaturan Penyesuaian Getar";
+
+  "CUSTOM_URL_STRENGTH" = "Penyesuaian Getar URL";
+
+  "NONE" = "Tidak Ada";
+  "LIGHT_HAPTIC_ENGINE" = "Ringan: Haptic Engine";
+  "MEDIUM_HAPTIC_ENGINE" = "Sedang: Haptic Engine";
+  "HEAVY_HAPTIC_ENGINE" = "Kuat: Haptic Engine";
+  "LIGHT_TAPTIC_ENGINE" = "Ringan: Taptic Engine";
+  "MEDIUM_TAPTIC_ENGINE" = "Sedang: Taptic Engine";
+  "STRONG_TAPTIC_ENGINE" = "Kuat: Taptic Engine";
+  "SOFT_TAPTIC_ENGINE" = "Lembut: Taptic Engine";
+  "RIGID_TAPTIC_ENGINE" = "Padat: Taptic Engine";
+
+}
