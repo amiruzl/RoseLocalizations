@@ -1,0 +1,34 @@
+{
+
+  "ENABLE_SYSTEM_WIDE_SECTION" = "Aktifkan Seksi Sistem Menyeluruh";
+  "ENABLE_SECTION" = "Aktifkan Seksi";
+
+  "HAPTIC_FEEDBACK_WHEN" = "Umpan Balik Haptic Ketika..";
+
+  "TAPPING_UIBUTTON" = "Ketukan Pada UIButton";
+  "TAPPING_UIBUTTONBARBUTTON" = "Ketukan Pada UIButtonBarButton";
+  "TAPPING_UITABBARBUTTON" = "Ketukan Pada UITabBarButton";
+  "TAPPING_UIIMAGEVIEW" = "Ketukan Pada UIImageView";
+  "TAPPING_UIVIEW" = "Ketukan Pada UIView";
+  "TAPPING_UIWINDOW" = "Ketukan Pada UIWindow";
+
+  "CUSTOM_STRENGTH_SETTINGS" = "Pengaturan Penyesuaian Getar";
+
+  "CUSTOM_UIBUTTON_STRENGTH" = "Penyesuaian Getar UIButton";
+  "CUSTOM_UIBUTTONBARBUTTON_STRENGTH" = "Penyesuaian Getar UIButtonBarButton";
+  "CUSTOM_UITABBARBUTTON_STRENGTH" = "Penyesuaian Getar UITabBarButton";
+  "CUSTOM_UIIMAGEVIEW_STRENGTH" = "Penyesuaian Getar UIImageView";
+  "CUSTOM_UIVIEW_STRENGTH" = "Penyesuaian Getar UIView";
+  "CUSTOM_UIWINDOW_STRENGTH" = "Penyesuaian Getar UIWindow";
+
+  "NONE" = "Tidak Ada";
+  "LIGHT_HAPTIC_ENGINE" = "Ringan: Haptic Engine";
+  "MEDIUM_HAPTIC_ENGINE" = "Sedang: Haptic Engine";
+  "HEAVY_HAPTIC_ENGINE" = "Kuat: Haptic Engine";
+  "LIGHT_TAPTIC_ENGINE" = "Ringan: Taptic Engine";
+  "MEDIUM_TAPTIC_ENGINE" = "Sedang: Taptic Engine";
+  "STRONG_TAPTIC_ENGINE" = "Kuat: Taptic Engine";
+  "SOFT_TAPTIC_ENGINE" = "Lembut: Taptic Engine";
+  "RIGID_TAPTIC_ENGINE" = "Padat: Taptic Engine";
+
+}
