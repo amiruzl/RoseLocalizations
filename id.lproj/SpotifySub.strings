@@ -1,0 +1,44 @@
+{
+
+  "ENABLE_SPOTIFY_SUPPORT" = "Aktifkan Dukungan Spotify";
+  "SPOTIFY_SUPPORT" = "Dukungan Spotify";
+
+  "HAPTIC_FEEDBACK_WHEN" = "Umpan Balik Haptic Ketika..";
+
+  "RESUMING_OR_PAUSING_SONG" = "Memulai/Menjeda Lagu";
+  "MINI_PLAYER_RESUMING_OR_PAUSING_SONG" = "Mini-Player Memulai/Menjeda Lagu";
+  "GOING_TO_PREVIOUS_SONG" = "Ke Lagu Sebelumnya";
+  "SKIPPING_SONG" = "Melangkahi Lagu";
+  "TAPPING_REPEAT_BUTTON" = "Ketukan Pada Tombol Ulangi";
+  "TAPPING_SHUFFLE_BUTTON" = "Ketukan Pada Tombol Acak";
+  "TAPPING_QUEUE_BUTTON" = "Ketukan Pada Tombol Antrian";
+  "USING_TIME_SLIDER" = "Menggunakan Slider Waktu";
+  "TAPPING_LIKE_BUTTON" = "Ketukan Pada Tombol Suka";
+  "TAPPING_DEVICES_BUTTON" = "Ketukan Pada Tombol Perangkat";
+  "TAPPING_SONG_LABEL" = "Ketukan Pada Judul Lagu";
+
+  "CUSTOM_STRENGTH_SETTINGS" = "Pengaturan Penyesuaian Getar";
+
+  "CUSTOM_PLAY_BUTTON_STRENGTH" = "Penyesuaian Getar Tombol Mulai";
+  "CUSTOM_MINI_PLAYER_PLAY_BUTTON_STRENGTH" = "Penyesuaian Getar Tombol Mulai Mini Player";
+  "CUSTOM_PREVIOUS_TRACK_BUTTON_STRENGTH" = "Penyesuaian Getar Tombol Sebelumnya";
+  "CUSTOM_SKIP_BUTTON_STRENGTH" = "Penyesuaian Getar Tombol Langkahi";
+  "CUSTOM_REPEAT_BUTTON_STRENGTH" = "Penyesuaian Getar Tombol Ulangi";
+  "CUSTOM_SHUFFLE_BUTTON_STRENGTH" = "Penyesuaian Getar Tombol Acak";
+  "CUSTOM_QUEUE_BUTTON_STRENGTH" = "Penyesuaian Getar Tombol Antrian";
+  "CUSTOM_TIME_SLIDER_STRENGTH" = "Penyesuaian Getar Slider Waktu";
+  "CUSTOM_LIKE_BUTTON_STRENGTH" = "Penyesuaian Getar Tombol Suka";
+  "CUSTOM_DEVICES_BUTTON_STRENGTH" = "Penyesuaian Getar Tombol Perangkat";
+  "CUSTOM_LABEL_STRENGTH" = "Penyesuaian Getar Judul Lagu";
+
+  "NONE" = "Tidak Ada";
+  "LIGHT_HAPTIC_ENGINE" = "Ringan: Haptic Engine";
+  "MEDIUM_HAPTIC_ENGINE" = "Sedang: Haptic Engine";
+  "HEAVY_HAPTIC_ENGINE" = "Kuat: Haptic Engine";
+  "LIGHT_TAPTIC_ENGINE" = "Ringan: Taptic Engine";
+  "MEDIUM_TAPTIC_ENGINE" = "Sedang: Taptic Engine";
+  "STRONG_TAPTIC_ENGINE" = "Kuat: Taptic Engine";
+  "SOFT_TAPTIC_ENGINE" = "Lembut: Taptic Engine";
+  "RIGID_TAPTIC_ENGINE" = "Padat: Taptic Engine";
+
+}
