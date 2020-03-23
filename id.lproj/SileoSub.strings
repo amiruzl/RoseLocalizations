@@ -1,0 +1,34 @@
+{
+
+  "ENABLE_SILEO_SUPPORT" = "Aktifkan Dukungan Sileo";
+  "SILEO_SUPPORT" = "Dukungan Sileo";
+
+  "HAPTIC_FEEDBACK_WHEN" = "Umpan Balik Haptic Ketika..";
+
+  "TAPPING_SOURCE_CELL" = "Ketukan Pada Bagian Source";
+  "TAPPING_PACKAGE_CELL" = "Ketukan Pada Bagian Package";
+  "TAPPING_TABLE_VIEW_CELL" = "Ketukan Pada Bagian Table View";
+  "TAPPING_FEATURED_BANNER" = "Ketukan Pada Banner Featured";
+  "TAPPING_DOWNLOAD_CONFIRM_BUTTON" = "Ketukan Pada Tombol Konfirmasi Download";
+  "TAPPING_GET_BUTTON" = "Ketukan Pada Tombol Get";
+
+  "CUSTOM_STRENGTH_SETTINGS" = "Pengaturan Penyesuaian Getar";
+
+  "CUSTOM_SOURCE_CELL_STRENGTH" = "Penyesuaian Getar Bagian Source";
+  "CUSTOM_PACKAGE_CELL_STRENGTH" = "Penyesuaian Getar Bagian Package";
+  "CUSTOM_TABLE_VIEW_CELL_STRENGTH" = "Penyesuaian Getar Bagian Table View";
+  "CUSTOM_FEATURED_BANNER_STRENGTH" = "Penyesuaian Getar Banner Featured";
+  "CUSTOM_DOWNLOAD_CONFIRM_BUTTON_STRENGTH" = "Penyesuaian Getar Tombol Konfirmasi Download";
+  "CUSTOM_GET_BUTTON_STRENGTH" = "Penyesuaian Getar Tombol Get";
+
+  "NONE" = "Tidak Ada";
+  "LIGHT_HAPTIC_ENGINE" = "Ringan: Haptic Engine";
+  "MEDIUM_HAPTIC_ENGINE" = "Sedang: Haptic Engine";
+  "HEAVY_HAPTIC_ENGINE" = "Kuat: Haptic Engine";
+  "LIGHT_TAPTIC_ENGINE" = "Ringan: Taptic Engine";
+  "MEDIUM_TAPTIC_ENGINE" = "Sedang: Taptic Engine";
+  "STRONG_TAPTIC_ENGINE" = "Kuat: Taptic Engine";
+  "SOFT_TAPTIC_ENGINE" = "Lembut: Taptic Engine";
+  "RIGID_TAPTIC_ENGINE" = "Padat: Taptic Engine";
+
+}
