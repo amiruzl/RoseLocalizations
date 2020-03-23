@@ -1,0 +1,29 @@
+
+{
+
+  "ENABLE_CONTROL_CENTER_SECTION" = "Aktifkan Seksi Control Center";
+  "ENABLE_SECTION" = "Aktifkan Seksi";
+
+  "HAPTIC_FEEDBACK_WHEN" = "Umpan Balik Haptic Ketika..";
+
+  "TOGGLING_CONNECTIVITY_TOGGLE" = "Mengaktifkan Tombol Konektifitas";
+  "OPENING_CONTROL_CENTER" = "Membuka Control Center";
+  "TOGGLING_CC_MODULE" = "Mengaktifkan Modul CC(Eksperimental)";
+
+  "CUSTOM_STRENGTH_SETTINGS" = "Penyesuaian Getar";
+
+  "CUSTOM_CC_TOGGLE_STRENGTH" = "Penyesuaian Getar Tombol Konektifitas";
+  "CUSTOM_OPEN_CONTROL_CENTER_STRENGTH" = "Penyesuaian Getar Membuka Control Center";
+  "CUSTOM_CC_MODULE_STRENGTH" = "Penyesuaian Getar Modul CC";
+
+  "NONE" = "Tidak Ada";
+  "LIGHT_HAPTIC_ENGINE" = "Ringan: Haptic Engine";
+  "MEDIUM_HAPTIC_ENGINE" = "Sedang: Haptic Engine";
+  "HEAVY_HAPTIC_ENGINE" = "Kuat: Haptic Engine";
+  "LIGHT_TAPTIC_ENGINE" = "Ringan: Taptic Engine";
+  "MEDIUM_TAPTIC_ENGINE" = "Sedang: Taptic Engine";
+  "STRONG_TAPTIC_ENGINE" = "Kuat: Taptic Engine";
+  "SOFT_TAPTIC_ENGINE" = "Lembut: Taptic Engine";
+  "RIGID_TAPTIC_ENGINE" = "Padat: Taptic Engine";
+
+}
