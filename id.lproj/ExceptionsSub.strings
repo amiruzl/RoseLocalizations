@@ -1,0 +1,11 @@
+{
+
+  "ENABLE_EXCEPTIONS_SECTION" = "Aktifkan Seksi Pengecualian";
+  "ENABLE_SECTION" = "Aktifkan Seksi";
+
+  "DISABLE_FEEDBACK_WHEN" = "Nonaktifkan Umpan Balik Ketika..";
+
+  "LOW_POWER_MODE_IS_ON" = "Mode Hemat Daya Aktif";
+  "DND_IS_ACTIVE" = "DND Aktif";
+
+}
