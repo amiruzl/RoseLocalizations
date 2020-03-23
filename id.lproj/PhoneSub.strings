@@ -1,0 +1,30 @@
+{
+
+  "ENABLE_PHONE_SUPPORT" = "Enable Phone Support";
+  "PHONE_SUPPORT" = "Phone Support";
+
+  "HAPTIC_FEEDBACK_WHEN" = "Haptic Feedback When..";
+
+  "TAPPING_DIALER_NUMBER_PAD_BUTTON" = "Ketukan Pada Tombol Nomor";
+  "TAPPING_CONTACTS_CELL" = "Ketukan Pada Tab Kontak";
+  "TAPPING_DIALER_DELETE_BUTTON" = "Ketukan Pada Tombol Hapus";
+  "TAPPING_DIALER_CALL_BUTTON" = "Ketukan Pada Tombol Telepon";
+
+  "CUSTOM_STRENGTH_SETTINGS" = "Pengaturan Penyesuaian Getar";
+
+  "CUSTOM_DIALER_NUMBER_PAD_STRENGTH" = "Penyesuaian Getar Tombol Nomor";
+  "CUSTOM_CONTACT_CELL_STRENGTH" = "Penyesuaian Getar Tab Kontak";
+  "CUSTOM_DIALER_DELETE_BUTTON_STRENGTH" = "Penyesuaian Getar Tombol Hapus";
+  "CUSTOM_DIALER_CALL_BUTTON_STRENGTH" = "Penyesuaian Getar Tombol Telepon";
+
+  "NONE" = "Tidak Ada";
+  "LIGHT_HAPTIC_ENGINE" = "Ringan: Haptic Engine";
+  "MEDIUM_HAPTIC_ENGINE" = "Sedang: Haptic Engine";
+  "HEAVY_HAPTIC_ENGINE" = "Kuat: Haptic Engine";
+  "LIGHT_TAPTIC_ENGINE" = "Ringan: Taptic Engine";
+  "MEDIUM_TAPTIC_ENGINE" = "Sedang: Taptic Engine";
+  "STRONG_TAPTIC_ENGINE" = "Kuat: Taptic Engine";
+  "SOFT_TAPTIC_ENGINE" = "Lembut: Taptic Engine";
+  "RIGID_TAPTIC_ENGINE" = "Padat: Taptic Engine";
+
+}
