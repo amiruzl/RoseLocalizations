@@ -1,0 +1,24 @@
+{
+
+  "ENABLE_CALCULATOR_SUPPORT" = "Aktifkan Dukungan Calculator";
+  "CALCULATOR_SUPPORT" = "Dukungan Calculator";
+
+  "HAPTIC_FEEDBACK_WHEN" = "Umpan Balik Haptic Ketika..";
+
+  "TAPPING_A_KEYPAD_BUTTON" = "Ketukan Pada Tombol Keypad";
+
+  "CUSTOM_STRENGTH_SETTINGS" = "Pengaturan Penyesuaian Getar";
+
+  "CUSTOM_KEYPAD_BUTTON_STRENGTH" = "Penyesuaian Getar Tombol Keypad";
+
+  "NONE" = "Tidak Ada";
+  "LIGHT_HAPTIC_ENGINE" = "Ringan: Haptic Engine";
+  "MEDIUM_HAPTIC_ENGINE" = "Sedang: Haptic Engine";
+  "HEAVY_HAPTIC_ENGINE" = "Kuat: Haptic Engine";
+  "LIGHT_TAPTIC_ENGINE" = "Ringan: Taptic Engine";
+  "MEDIUM_TAPTIC_ENGINE" = "Sedang: Taptic Engine";
+  "STRONG_TAPTIC_ENGINE" = "Kuat: Taptic Engine";
+  "SOFT_TAPTIC_ENGINE" = "Lembut: Taptic Engine";
+  "RIGID_TAPTIC_ENGINE" = "Padat: Taptic Engine";
+
+}
