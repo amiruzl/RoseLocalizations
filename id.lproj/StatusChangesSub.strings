@@ -1,0 +1,30 @@
+{
+
+  "ENABLE_STATUS_CHANGES_SECTION" = "Aktifkan Seksi Perubahan Status";
+  "ENABLE_SECTION" = "Aktifkan Seksi";
+
+  "HAPTIC_FEEDBACK_WHEN" = "Umpan Balik Haptic Ketika..";
+
+  "UNLOCKED_OR_NC" = "Perangkat Terbuka/NC";
+  "LOCKED" = "Perangkat Terkunci";
+  "AUTHENTICATED_WITH_TOUCH_OR_FACEID" = "Autentikasi Dengan Touch/FaceID";
+  "CALLL_CONNECTS_OR_DISCONNECTS" = "Panggilan Terhubung/Terputus";
+
+  "CUSTOM_STRENGTH_SETTINGS" = "Pengaturan Penyesuaian Getar";
+
+  "CUSTOM_UNLOCK_STRENGTH" = "Penyesuaian Getar Perangkat Terbuka";
+  "CUSTOM_LOCK_STRENGTH" = "Penyesuaian Getar Perangkat Terkunci";
+  "CUSTOM_AUTHETICATION_STRENGTH" = "Penyesuaian Getar Autentikasi";
+  "CUSTOM_CALL_STRENGTH" = "Penyesuaian Getar Panggilan";
+
+  "NONE" = "Tidak Ada";
+  "LIGHT_HAPTIC_ENGINE" = "Ringan: Haptic Engine";
+  "MEDIUM_HAPTIC_ENGINE" = "Sedang: Haptic Engine";
+  "HEAVY_HAPTIC_ENGINE" = "Kuat: Haptic Engine";
+  "LIGHT_TAPTIC_ENGINE" = "Ringan: Taptic Engine";
+  "MEDIUM_TAPTIC_ENGINE" = "Sedang: Taptic Engine";
+  "STRONG_TAPTIC_ENGINE" = "Kuat: Taptic Engine";
+  "SOFT_TAPTIC_ENGINE" = "Lembut: Taptic Engine";
+  "RIGID_TAPTIC_ENGINE" = "Padat: Taptic Engine";
+
+}
